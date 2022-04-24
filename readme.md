@@ -14,6 +14,7 @@
   </a>
 </p>
 
+![GitHub followers](https://img.shields.io/github/followers/nababrata12?label=Follow&style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/NabanrataNFTart?label=Follow)](https://twitter.com/NabanrataNFTart)
 [![Linkedin: naba](https://img.shields.io/badge/-naba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nababratadeb/)](https://www.linkedin.com/in/nababratadeb/)
 
