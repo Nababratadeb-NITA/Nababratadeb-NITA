@@ -25,7 +25,7 @@ const naba = {
   pronouns: "he" | "his",
   code: [Javascript, Dart, HTML, CSS, ],
   tools: [React, Redux, Node, Storybook, Styled-Components, Flutter, Tailwind],
-  architecture: ["Smart-Contracts", "Ano;og Circuit Design"],
+  architecture: ["Smart-Contracts"],
  motivation: "Collected every stone thrown at me and made myself an empire"
 }
 ```
