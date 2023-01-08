@@ -6,10 +6,10 @@
 </div>
 
 
-<p align="center">
+<!-- <p align="center">
    
    <a href="https://www.linkedin.com/in/nababratadeb/"> <img alt="nababrata" src="https://img.shields.io/badge/-nababratadeb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nababratadeb-b35524117/"> </a>
- </p>
+ </p> -->
 
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Nababrata Deb | 💻 Full Stack Developer | 🛸 India  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
