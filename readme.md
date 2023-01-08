@@ -70,7 +70,7 @@
 
 ### - 📈 my github stats...
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nababrata-NITA&show_icons=true&theme=gotham" alt="nababrata" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nababratadeb-NITA&show_icons=true&theme=gotham" alt="nababrata" />
 
 
 
