@@ -6,8 +6,7 @@
 </div>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/nababratadeb/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/NababrataNFT"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+[![Linkedin: theiconik](https://img.shields.io/badge/-nababratadeb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nababratadeb-b35524117/)](https://www.linkedin.com/in/nababratadeb/)
 </p>
 
 
