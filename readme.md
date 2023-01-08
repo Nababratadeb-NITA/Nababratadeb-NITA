@@ -33,7 +33,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/nababrata17"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nababrata17" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nababratadeb-nita&show_icons=true&locale=en&layout=compact" alt="nababratadeb-nita" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nababratadeb-nita&show_icons=true&locale=en" alt="nababratadeb-nita" /></p>
 
