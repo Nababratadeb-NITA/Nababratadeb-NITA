@@ -85,7 +85,7 @@
 
 ### - 📈 my github stats...
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nababratadeb-NITA&show_icons=true&theme=cobalt" alt="nababrata" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nababratadeb-NITA&show_icons=true&theme=radical" alt="nababrata" /> </p>
 
 
 
